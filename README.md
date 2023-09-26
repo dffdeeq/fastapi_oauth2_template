@@ -15,7 +15,7 @@ This FastAPI OAuth2 Template provides a starting point for building web applicat
 ## Installation
 1. Clone this repository:
 ```
-git clone https://github.com/dffdeeq/fastapi_oauth2_template.git
+git clone https://github.com/your-username/fastapi_oauth2_template.git
 cd fastapi_oauth2_template
 ```
 2. Create a virtual environment (optional but recommended):
@@ -35,8 +35,6 @@ Run the FastAPI application:
 ```
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
-Replace 0.0.0.0 and 8000 with the desired host and port for your application. 
-
 **Access the FastAPI Swagger documentation at http://localhost:8000/docs to interact with the API and test the endpoints.**
 
 ## API Endpoints
