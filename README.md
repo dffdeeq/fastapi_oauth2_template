@@ -86,8 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- dffdeeq
-- GitHub: [https://github.com/dffdeeq](https://github.com/dffdeeq)
+- **GitHub:** [dffdeeq](https://github.com/dffdeeq)
 
 ## Contributing
 
