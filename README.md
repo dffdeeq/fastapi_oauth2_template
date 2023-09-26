@@ -15,7 +15,7 @@ This FastAPI OAuth2 Template provides a starting point for building web applicat
 ## Installation
 1. Clone this repository:
 ```
-git clone https://github.com/your-username/fastapi_oauth2_template.git
+git clone https://github.com/dffdeeq/fastapi_oauth2_template.git
 cd fastapi_oauth2_template
 ```
 2. Create a virtual environment (optional but recommended):
