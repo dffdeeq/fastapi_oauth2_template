@@ -80,10 +80,6 @@ This project relies on the following Python libraries:
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 - [Uvicorn](https://www.uvicorn.org/)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 - **GitHub:** [dffdeeq](https://github.com/dffdeeq)
