@@ -5,11 +5,12 @@ This is a template for a FastAPI application with Bearer OAuth2 authentication.
 ## Description
 
 This FastAPI OAuth2 Template provides a starting point for building web applications with user authentication using OAuth2. It includes endpoints for user registration, token generation, and retrieving user information.
-Features
 
-    User registration
-    Token generation
-    User information retrieval
+## Features
+
+- User registration
+- Token generation
+- User information retrieval
 
 ## Installation
 1. Clone this repository:
